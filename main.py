@@ -5,6 +5,7 @@ import DrawModule as DRAW
 from DrawModule import TOOLS
 ############## 1. ФУНКЦИИ БЛОКА MAIN
 
+
 ### 1.1 Инициализация программы
 def initialize_program():
     pygame.display.set_caption(TOOLS.WINDOW_CAPTION)                  #название окна                 
